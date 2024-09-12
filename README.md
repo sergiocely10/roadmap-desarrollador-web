@@ -10,8 +10,8 @@ Esta idea, de documentar los conocimientos, surge gracias a Alan Buscaglia a.k.a
 - Una manera de demostrar conocimientos.
 ### Frontend Developer Roadmap 
 ¿Qué es el desarrollo frontend?
-[Internet](Internet%20-%20homepage)
-[HTML](HTML%20-homepage)
+[Internet - homepage](Frontend%20Developer/Internet/Internet%20-%20homepage.md)
+[HTML - homepage](Frontend%20Developer/HTML/HTML%20-%20homepage.md)
 CSS | Writing CSS | CSS Archictecture | CSS Preprocesadores
 JavaScript
 Sistema de control de versiones | VCS Hosting
